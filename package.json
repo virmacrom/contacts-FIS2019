@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/virmacrom/contacts-FIS2019.git"  
+    "url": "https://github.com/virmacrom/contacts-FIS2019.git"
   },
   "homepage": "https://github.com/virmacrom/contacts-FIS2019.git",
   "scripts": {
@@ -15,6 +15,7 @@
   "author": "Virginia Macias",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
   }
 }
